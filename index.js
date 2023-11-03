@@ -8,4 +8,5 @@ const className = "AMFI";
 
 console.log(school, className);
 
+const isTrue = true;
 const isFalse = false;
