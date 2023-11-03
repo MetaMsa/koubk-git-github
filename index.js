@@ -7,3 +7,5 @@ const school = "KOU";
 const className = "AMFI";
 
 console.log(school, className);
+
+const isFalse = false;
